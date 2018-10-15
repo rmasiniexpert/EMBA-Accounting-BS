@@ -9,9 +9,11 @@ Consolidated Statement of Finance Position of XYZ, Ltd.
  As of 31 December 2025
 
 1. **ASSETS**
-1. *Non-Current Assets (Fixed Assets)*
 <br>
+1. *Non-Current Assets (Fixed Assets)*
+
   Property, Plant and Equipment (PPE)
+  <p>
      Less : Accumulated Depreciation
   Goodwill
   Intangible Assets (Patent, Copyright, Trademark, etc.)
