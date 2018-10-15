@@ -9,7 +9,7 @@ Consolidated Statement of Finance Position of XYZ, Ltd.
  As of 31 December 2025
 
 1. **ASSETS**
- 1. *Non-Current Assets (Fixed Assets)*
+1. *Non-Current Assets (Fixed Assets)*
   Property, Plant and Equipment (PPE)
      Less : Accumulated Depreciation
   Goodwill
@@ -54,8 +54,8 @@ Consolidated Statement of Finance Position of XYZ, Ltd.
   Revaluation Reserve
   Other Accumulated Reserves
   Accumulated Other Comprehensive Income
- 
   Non-Controlling Interest
-**TOTAL LIABILITIES and EQUITY (this will match/balance the total for Assets above)**
+  
+4. **TOTAL LIABILITIES and EQUITY (this will match/balance the total for Assets above)**
 
 
