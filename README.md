@@ -51,7 +51,7 @@ Consolidated Statement of Finance Position of XYZ, Ltd.
 
 2. **LIABILITIES and EQUITY**
 <br>
-  1. *Current Liabilities (Creditors: amounts falling due within one year)*
+  *Current Liabilities (Creditors: amounts falling due within one year)*
   <p>
   Accounts Payable
  <p>
@@ -75,7 +75,7 @@ Consolidated Statement of Finance Position of XYZ, Ltd.
   Provisions, e.g. Pension Obligations
     <p>
   Other Non-Current Liabilities, e.g. Lease Obligations
-     <br>
+  <br>
 
  3. **EQUITY**
  <br>
@@ -96,7 +96,7 @@ Consolidated Statement of Finance Position of XYZ, Ltd.
   Accumulated Other Comprehensive Income
        <p>
   Non-Controlling Interest
-        <p>
+    <br>
   
 4. **TOTAL LIABILITIES and EQUITY (this will match/balance the total for Assets above)**
 
