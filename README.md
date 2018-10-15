@@ -10,6 +10,7 @@ Consolidated Statement of Finance Position of XYZ, Ltd.
 
 1. **ASSETS**
 1. *Non-Current Assets (Fixed Assets)*
+<br>
   Property, Plant and Equipment (PPE)
      Less : Accumulated Depreciation
   Goodwill
