@@ -8,8 +8,9 @@ More concepts and examples
 Consolidated Statement of Finance Position of XYZ, Ltd.
  As of 31 December 2025
 
-1. **ASSETS**
+ **ASSETS**
 <br>
+ 
  ***Non-Current Assets (Fixed Assets)***
 
   Property, Plant and Equipment (PPE)
@@ -47,11 +48,14 @@ Consolidated Statement of Finance Position of XYZ, Ltd.
        <p>
 
   ***TOTAL ASSETS (this will match/balance the total for Liabilities and Equity below)***
+ 
  <br>
 
 **LIABILITIES and EQUITY**
+
 <br>
-  ***Current Liabilities (Creditors: amounts falling due within one year)***
+ 
+ ***Current Liabilities (Creditors: amounts falling due within one year)***
   <p>
   Accounts Payable
  <p>
@@ -77,7 +81,7 @@ Consolidated Statement of Finance Position of XYZ, Ltd.
   Other Non-Current Liabilities, e.g. Lease Obligations
   <br>
 
- 3. **EQUITY**
+  **EQUITY**
  <br>
   Paid-in Capital
   <p>
