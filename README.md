@@ -106,4 +106,10 @@ Consolidated Statement of Finance Position of XYZ, Ltd.
   
 **TOTAL LIABILITIES and EQUITY (this will match/balance the total for Assets above)**
 
+## Assets & other concepts 
+
+1. Assets are economic resources that are expected to produce economic benefits for their owner
+2. Liabilities are obligations the company has to outside parties. Liabilities represent others' rights to the company's money or services. Examples include bank loans, debts to suppliers and debts to employees.
+3. Shareholders' equity is the value of a business to its owners after all of its obligations have been met. This net worth belongs to the owners. Shareholders' equity generally reflects the amount of capital the owners have invested, plus any profits generated that were subsequently reinvested in the company.
+
 
