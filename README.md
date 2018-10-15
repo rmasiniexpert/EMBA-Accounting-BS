@@ -82,8 +82,10 @@ Consolidated Statement of Finance Position of XYZ, Ltd.
   <br>
 
   **EQUITY**
+ 
  <br>
-  Paid-in Capital
+ 
+ Paid-in Capital
   <p>
     Share Capital (Ordinary Shares, Preference Shares)
  <p>
@@ -102,6 +104,6 @@ Consolidated Statement of Finance Position of XYZ, Ltd.
   Non-Controlling Interest
     <br>
   
-4. **TOTAL LIABILITIES and EQUITY (this will match/balance the total for Assets above)**
+**TOTAL LIABILITIES and EQUITY (this will match/balance the total for Assets above)**
 
 
