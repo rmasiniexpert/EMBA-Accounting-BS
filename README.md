@@ -10,7 +10,7 @@ Consolidated Statement of Finance Position of XYZ, Ltd.
 
 1. **ASSETS**
 <br>
-1. *Non-Current Assets (Fixed Assets)*
+ ***Non-Current Assets (Fixed Assets)***
 
   Property, Plant and Equipment (PPE)
   <p>
@@ -29,7 +29,7 @@ Consolidated Statement of Finance Position of XYZ, Ltd.
   Other Non-Current Assets, e.g. Deferred Tax Assets, Lease Receivable and Receivables due after one year
   <p> 
 
- 2. *Current Assets*
+ ***Current Assets***
  <p>
   Inventories
  <p>
@@ -46,12 +46,12 @@ Consolidated Statement of Finance Position of XYZ, Ltd.
   Cash and Cash Equivalents
        <p>
 
- 3. **TOTAL ASSETS (this will match/balance the total for Liabilities and Equity below)**
+  ***TOTAL ASSETS (this will match/balance the total for Liabilities and Equity below)***
  <br>
 
-2. **LIABILITIES and EQUITY**
+**LIABILITIES and EQUITY**
 <br>
-  *Current Liabilities (Creditors: amounts falling due within one year)*
+  ***Current Liabilities (Creditors: amounts falling due within one year)***
   <p>
   Accounts Payable
  <p>
@@ -64,7 +64,7 @@ Consolidated Statement of Finance Position of XYZ, Ltd.
   Other Current Liabilities, e.g. Deferred income, Security deposits
      <p>
   
-  2. *Non-Current Liabilities (Creditors: amounts falling due after more than one year)*
+  ***Non-Current Liabilities (Creditors: amounts falling due after more than one year)***
   <p>
   Loans Payable
  <p>
