@@ -113,7 +113,7 @@ Consolidated Statement of Finance Position of XYZ, Ltd.
 3. Shareholders' equity is the value of a business to its owners after all of its obligations have been met. This net worth belongs to the owners. Shareholders' equity generally reflects the amount of capital the owners have invested, plus any profits generated that were subsequently reinvested in the company.
 
 
-3.Current Assets - These are assets that may be converted into cash, sold or consumed within a year or less. These usually include:
+**Current Assets - These are assets that may be converted into cash, sold or consumed within a year or less. These usually include:
 
  1. Cash - This is what the company has in cash in the bank. Cash is reported at its market value at the reporting date in the respective currency in which the financials are prepared. Different cash denominations are converted at the market conversion rate.
  2. Marketable securities (short-term investments) - These can be both equity and/or debt securities for which a ready market exists. Furthermore, management expects to sell these investments within one year's time. These short-term investments are reported at their market value.
@@ -133,7 +133,7 @@ Consolidated Statement of Finance Position of XYZ, Ltd.
 
 
 
-2. Total Liabilities
+**Total Liabilities
 Liabilities have the same classifications as assets: current and long term.
 
  1. Current liabilities - These are debts that are due to be paid within one year or the operating cycle, whichever is longer. Such obligations will typically involve the use of current assets, the creation of another current liability or the providing of some service.
@@ -149,6 +149,7 @@ Usually included in this section are:
  1.7 Dividends payable - This occurs as a company declares a dividend but has not yet paid it out to its owners.
  1.8 Current portion of long-term debt - The currently maturing portion of the long-term debt is classified as a current liability. Theoretically, any related premium or discount should also be reclassified as a current liability.
  1.9 Current portion of capital-lease obligation - This is the portion of a long-term capital lease that is due within the next year.
+ 
  2. Long-term Liabilities - These are obligations that are reasonably expected to be liquidated at some date beyond one year or one operating cycle. Long-term obligations are reported as the present value of all future cash payments. Usually included are:
 
  2.1 Notes payables - This is an amount the company owes to a creditor, which usually carries an interest expense.
